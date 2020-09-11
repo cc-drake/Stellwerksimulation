@@ -1,0 +1,23 @@
+Münster;Minden;Bremen;Rheine;Laufweg;;;;;;;;;;;;;
+b;b;b;b;Bremen$S;Vorbf;Schinkel$S;Hoch;;;;;;;;;;
+;;;x;Bremen$S;Vorbf;Schinkel$SW;Klus;Abzw 04$W;Rheine;;;;;;;;
+x;;;;Hoch$S;BrückeHoch$S;Strecke 35;OS Süd$S;Münster;;;;;;;;;
+;x;;;Hoch$S;BrückeHoch$SO;Abzweig 45$O;Abzweig 55$O;Strecke 65;Strecke 75;Abzw Lüstringen$O;Minden;;;;;;
+;;;x;Hoch$S;BrückeHoch$SO;Abzweig 45$O;Abzweig 55$NO;Abzw RBF$NO;Stahlwerkskurve$N;Strecke 72;Strecke 61;Strecke 51;Strecke 41;Schinkel$SW;Klus;Abzw 04$W;Rheine
+;b;;b;Hoch$N;Schinkel$NO;Strecke 41;Strecke 51;Strecke 61;Strecke 72;Stahlwerkskurve$SW;Abzw RBF$W;Strecke 54;Strecke 44;BrückeTief;Tief;;
+;;x;;Hoch$N;Schinkel$N;Vorbf;Bremen;;;;;;;;;;
+;;;x;Minden$W;Abzw Lüstringen$NW;Stahlwerkskurve$N;Strecke 72;Strecke 61;Strecke 51;Strecke 41;Schinkel$SW;Klus;Abzw 04$W;Rheine;;;
+b;b;;b;Minden$W;Abzw Lüstringen$W;Strecke 74;Abzw RBF$W;Strecke 54;Strecke 44;BrückeTief;Tief;;;;;;
+b;b;b;b;Minden$W;Abzw Lüstringen$SW;Strecke 75;Strecke 65;Abzweig 55$W;Abzweig 45$NW;BrückeHoch$N;Hoch;;;;;;
+x;;;;Minden$W;Abzw Lüstringen$SW;Strecke 75;Strecke 65;Abzweig 55$W;Abzweig 45$SW;OS Süd$S;Münster;;;;;;
+;x;;;Münster$N;OS Süd$NO;Abzweig 45$O;Abzweig 55$O;Strecke 65;Strecke 75;Abzw Lüstringen$O;Minden;;;;;;
+x;;;;Münster$N;OS Süd$NO;Abzweig 45$O;Abzweig 55$NO;Abzw RBF$NO;Stahlwerkskurve$N;Strecke 72;Strecke 61;Strecke 51;Strecke 41;Schinkel$SW;Klus;Abzw 04$W;Rheine
+b;b;b;b;Münster$N;OS Süd$N;Strecke 35;BrückeHoch$N;Hoch;;;;;;;;;
+b;b;;b;Rheine$O;Abzw 04$O;Tief;;;;;;;;;;;
+;;x;;Rheine$O;Abzw 04$NO;Klus;Schinkel$N;Vorbf;Bremen;;;;;;;;
+;x;;;Rheine$O;Abzw 04$NO;Klus;Schinkel$NO;Strecke 41;Strecke 51;Strecke 61;Strecke 72;Stahlwerkskurve$SO;Abzw Lüstringen$O;Minden;;;
+x;;;;Rheine$O;Abzw 04$NO;Klus;Schinkel$NO;Strecke 41;Strecke 51;Strecke 61;Strecke 72;Stahlwerkskurve$SW;Abzw RBF$SW;Abzweig 55$W;Abzweig 45$SW;OS Süd$S;Münster
+b;b;b;b;Rheine$O;Abzw 04$NO;Klus;Schinkel$NO;Strecke 41;Strecke 51;Strecke 61;Strecke 72;Stahlwerkskurve$SW;Abzw RBF$SW;Abzweig 55$W;Abzweig 45$NW;BrückeHoch$N;Hoch
+;x;;;Tief$O;BrückeTief;Strecke 44;Strecke 54;Abzw RBF$O;Strecke 74;Abzw Lüstringen$O;Minden;;;;;;
+b;b;b;b;Tief$O;BrückeTief;Strecke 44;Strecke 54;Abzw RBF$NO;Stahlwerkskurve$N;Strecke 72;Strecke 61;Strecke 51;Strecke 41;Schinkel$S;Hoch;;
+;;;x;Tief$W;Abzw 04$W;Rheine;;;;;;;;;;;
