@@ -1,0 +1,6 @@
+Gattung;Zugnummer;Hängt an Zugnummer$Flügelt am Bahnhof (1=Ja, 0=Nein);Herkunft;Startbetriebsstelle;aus Richtung;Fahrtziel;Zielbetriebsstelle;Gleis;an;ab;min. Aufenthalt;Weiter als (Gattung Zugnummer);Vereinigt sich mit Zugnummern ($-getrennt);Kann das Gleis mit Zügen teilen (Zugnummern durch $ getrennt)
+EN;446;;Warschau;Minden;O;Amsterdam;Rheine;Hoch;08:01;08:20;2;D 446;40472;40472
+D;40446;446$1;Moskau;Minden;O;Basel SBB;Münster;Tief;08:01;08:07;2;;472;472
+EN;472;;Kopenhagen;Bremen;N;Basel SBB;Münster;Tief;08:03;08:25;2;;40446;40446
+CNL;1024;446$0;Dresden;Minden;O;Amsterdam;Rheine;Hoch;08:01;08:20;2;;;
+D;40472;472$1;Kopenhagen;Bremen;N;Bad Bendheim;Rheine;Hoch;08:03;08:10;2;;446$1024;446

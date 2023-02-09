@@ -1,0 +1,29 @@
+Name;ist Betriebsstelle;hat Bahnsteig;Brückenebene (oben/unten);Lage (x-Koordinate);Lage (y-Koordinate);Anschlussrichtungen ($-getrennt);Position Zugbeschriftung (x-Koordinate);Position Zugbeschriftung (y-Koordinate);Position Bahnhofsname (x-Koordinate);Position Bahnhofsname (y-Koordinate)
+Rheine;x;;;0;4;O$W;-70;-5;20;20
+Abzw 04;;;;1;4;O$W$NO;-70;-5;;
+Klus;;;;2;3;NO$SW;-70;-5;;
+Tief;x;x;;2;4;O$W;-70;-5;20;20
+Bremen;x;;;3;0;N$S;-70;-5;20;20
+Vorbf;;;;3;1;N$S;-70;-5;;
+Schinkel;;;;3;2;N$S$NO$SW;-70;-5;;
+Hoch;x;x;;3;3;N$S;-70;-5;20;20
+BrückeTief;;;unten;3;4;O$W;-70;10;;
+BrückeHoch;;;oben;3;4;N$S$SO;-70;-5;;
+Strecke 35;;;;3;5;N$S;-70;-5;;
+OS Süd;;;;3;6;N$S$NO;-70;-5;;
+Münster;x;;;3;7;N$S;-70;-5;20;-40
+Strecke 41;;;;4;1;SW$O;-70;-5;;
+Strecke 44;;;;4;4;O$W;-70;-5;;
+Abzweig 45;;;;4;5;NW$SW$O;-70;-5;;
+Strecke 51;;;;5;1;O$W;-70;-5;;
+Strecke 54;;;;5;4;O$W;-70;-5;;
+Abzweig 55;;;;5;5;O$W$NO;-70;-5;;
+Strecke 61;;;;6;1;W$SO;-70;-5;;
+Abzw RBF;;;;6;4;O$W$SW$NO;-70;-5;;
+Strecke 65;;;;6;5;O$W;-70;-5;;
+Strecke 72;;;;7;2;NW$S;-70;-5;;
+Stahlwerkskurve;;;;7;3;N$SO$SW;-70;-5;;
+Strecke 74;;;;7;4;O$W;-70;-5;;
+Strecke 75;;;;7;5;W$NO;-70;-5;;
+Abzw Lüstringen;;;;8;4;NW$W$SW$O;-70;-5;;
+Minden;x;;;9;4;O$W;-70;-5;20;20
