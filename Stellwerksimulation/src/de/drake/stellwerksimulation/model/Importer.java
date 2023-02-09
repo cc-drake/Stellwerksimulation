@@ -132,7 +132,6 @@ public class Importer {
 			zeilenscanner = new Scanner(scanner.nextLine());
 			zeilenscanner.useDelimiter(";");
 			id = zeilenscanner.next();
-			System.out.println(id);
 			positionX = zeilenscanner.nextInt();
 			positionY = zeilenscanner.nextInt();
 			detailscanner = new Scanner(zeilenscanner.next());
